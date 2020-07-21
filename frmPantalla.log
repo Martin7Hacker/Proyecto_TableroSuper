@@ -1,0 +1,25 @@
+Línea 44: la clase WMPLibCtl.WindowsMediaPlayer del control rep no era una clase de control cargada.
+Línea 51: el nombre de la propiedad URL de rep no es válido.
+Línea 52: el nombre de la propiedad rate de rep no es válido.
+Línea 53: el nombre de la propiedad balance de rep no es válido.
+Línea 54: el nombre de la propiedad currentPosition de rep no es válido.
+Línea 55: el nombre de la propiedad defaultFrame de rep no es válido.
+Línea 56: el nombre de la propiedad playCount de rep no es válido.
+Línea 57: el nombre de la propiedad autoStart de rep no es válido.
+Línea 58: el nombre de la propiedad currentMarker de rep no es válido.
+Línea 59: el nombre de la propiedad invokeURLs de rep no es válido.
+Línea 60: el nombre de la propiedad baseURL de rep no es válido.
+Línea 61: el nombre de la propiedad volume de rep no es válido.
+Línea 62: el nombre de la propiedad mute de rep no es válido.
+Línea 63: el nombre de la propiedad uiMode de rep no es válido.
+Línea 64: el nombre de la propiedad stretchToFit de rep no es válido.
+Línea 65: el nombre de la propiedad windowlessVideo de rep no es válido.
+Línea 67: el nombre de la propiedad enableContextMenu de rep no es válido.
+Línea 68: el nombre de la propiedad fullScreen de rep no es válido.
+Línea 69: el nombre de la propiedad SAMIStyle de rep no es válido.
+Línea 70: el nombre de la propiedad SAMILang de rep no es válido.
+Línea 71: el nombre de la propiedad SAMIFilename de rep no es válido.
+Línea 72: el nombre de la propiedad captioningID de rep no es válido.
+Línea 73: el nombre de la propiedad enableErrorDialogs de rep no es válido.
+Línea 74: el nombre de la propiedad _cx de rep no es válido.
+Línea 75: el nombre de la propiedad _cy de rep no es válido.
